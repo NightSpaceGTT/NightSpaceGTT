@@ -2,7 +2,7 @@
 
 # **NightSpaceGTT**
 
-[![2](https://discord.c99.nl/widget/theme-3/703516531333791825.png)](https://www.linkedin.com/)
+[![2](https://discord.c99.nl/widget/theme-3/703516531333791825.png)](https://www.minecraft.org/)
 
 Hey I am **NightSpaceGTT** not a **awesome** developer **but** I know:
 - JavaScript developer (chiefly Node.Js user 🤓)
@@ -13,8 +13,8 @@ And I am **learning Golang** !
 
 ## Here is my good project
 
- - [Night-Online-Downloader](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Night-console-input](https://github.com/matiassingers/awesome-readme)
+ - [Night-Online-Downloader](https://github.com/NightSpaceGTT/NightOnlineDownloader)
+ - [Night-console-input](https://github.com/NightSpaceGTT/NightConsoleInput)
  
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=NightSpaceGTT&repo=NightOnlineDownloader&theme=synthwave&show_owner)](https://github.com/NightSpaceGTT/NightOnlineDownloader)
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=NightSpaceGTT&repo=NightConsoleInput&theme=synthwave&show_owner)](https://github.com/NightSpaceGTT/NightConsoleInput)
