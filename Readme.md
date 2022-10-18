@@ -2,6 +2,7 @@
 
 <h1 align="center"> NightSpaceGTT </h1>
 
+<h1 align="center"> <img src="https://profile-counter.glitch.me/NightSpaceGTT/count.svg"> </h1>
 <h1 align="center"> <img src="https://discord.c99.nl/widget/theme-3/703516531333791825.png"> </h1>
 
 Hey I am **NightSpaceGTT** not a **awesome** developer **but** I know:
