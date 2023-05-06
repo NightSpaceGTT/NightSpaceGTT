@@ -20,7 +20,7 @@ Hey I am **NightSpaceGTT**  :)
  [![1](https://github-readme-stats.vercel.app/api/pin/?username=NightSpaceGTT&repo=NightConsoleInput&theme=synthwave&show_owner)](https://github.com/NightSpaceGTT/NightConsoleInput)
 
 <h1 align="center"> 🧶 Some useless icons </h1>
-<h1 align="center"> <img src="https://skillicons.dev/icons?i=vscode,js,nodejs,py,go,html,css,bash,powershell,express,nginx,mysql,mongodb,sqlite,stackoverflow,github,twitter,discord&perline=6"> </h1>
+<h1 align="center"> <img src="https://skillicons.dev/icons?i=vscode,js,nodejs,py,go,express,nginx,sqlite,stackoverflow,github,twitter,discord&perline=4"> </h1>
 
 <h1 align="center"> 📊 Github Stats </h1>
 
