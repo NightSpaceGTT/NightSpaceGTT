@@ -11,16 +11,10 @@ Hey I am **NightSpaceGTT**  :)
 
 - I spend a lot of my time in school 🥱💤, coding 👨‍💻, watching anime 🌸🍣😊, solving errors 😡, restructuring my code 💖😜 and solving new errors 😭...
 
-<h1 align="center"> 🚀 Here is some (old) good project </h1>
-
- - soon ^^
-
- - [Night-console-input](https://github.com/NightSpaceGTT/NightConsoleInput)
- 
- [![1](https://github-readme-stats.vercel.app/api/pin/?username=NightSpaceGTT&repo=NightConsoleInput&theme=synthwave&show_owner)](https://github.com/NightSpaceGTT/NightConsoleInput)
+- *Si un français voudrais bien m'aider en me faisant apprendre C++ ou Rust je suis dispo sur discord*
 
 <h1 align="center"> 🧶 Some useless icons </h1>
-<h1 align="center"> <img src="https://skillicons.dev/icons?i=vscode,js,nodejs,py,go,express,nginx,sqlite,stackoverflow,github,twitter,discord&perline=4"> </h1>
+<h1 align="center"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,js,rust,cpp,sqlite,stackoverflow,git,github,twitter,discord&perline=4"> </h1>
 
 <h1 align="center"> 📊 Github Stats </h1>
 
