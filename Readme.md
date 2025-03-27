@@ -30,7 +30,6 @@
 
 <p align="left">
   <br>
-  <br>
   <a href="https://steamcommunity.com/id/NightSpaceGTT/"> My steam account </a>
   <br>
   <br>
