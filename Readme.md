@@ -17,13 +17,13 @@
   <br>
   - 🌍 I live in France, more precisely in Brittany
   <br>
-  - 👨‍🏭 I’m an High School student
+  - 👨‍🏭 I’m a high school student
   <br>
   - 🎀 I learn how 2 code in 2020
   <br>
-  - 🐐 I mostly use Js, (G)Lua, C++ and HTML with CSS
+  - 🐐 I mostly use JavaScript, (G)Lua, C++, and HTML/CSS
   <br>
-  - ⚡ In my free time I like coding addons or cheat for Garry's Mod
+  - ⚡ In my free time I like coding addons or cheats for Garry's Mod
 </p>
 
 ## Some links ! 🔗
@@ -36,4 +36,4 @@
   <a href="https://discord.com/users/703516531333791825"> My discord account </a>
 </p>
 
-# Most of my project are private
+# Most of my projects are private !
